@@ -1,6 +1,6 @@
+The existing one was with SVM. 
 
-
-
+Tried to apply random forest
 In this code:
 
 - I've imported the required libraries. [Random Forest, Scikit-learn]
